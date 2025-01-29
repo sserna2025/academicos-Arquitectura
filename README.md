@@ -1,1 +1,1 @@
-# academicos-Arquitectura
+# Recursos-Arquitectura
